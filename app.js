@@ -355,9 +355,79 @@
 // }
 //     has()
 
-function alert1(name) {
-    alert( "welcome" +" "+ name);
-}
+// function alert1(name) {
+//     alert( "welcome" +" "+ name);
+// }
 
-alert1("hasuu")
-alert1("ahmed")
+// alert1("hasuu")
+// alert1("ahmed")
+
+
+// ----------------- swith (case) ------------------- use swith in else if place
+
+// var perc = +prompt( "enter your percentage" , "enter your percentage")
+
+// if ( perc  <= 100 && perc  >=80  ){
+// document.write("your grade is A+")
+// }
+// else if ( perc  <= 80 && perc  >=70  ){
+//     document.write("your grade is A")
+// }
+
+// else if ( perc  <= 70 && perc  >=60  ){
+//     document.write("your grade is B")
+// }
+
+// else if ( perc  <= 60 && perc  >=50  ){
+//     document.write("your grade is C")
+// }
+
+// else if ( perc  <= 50 && perc  >=0  ){
+//         document.write("your grade is fail")
+// }
+// else{
+//         document.write("invalid percentage")
+// }
+  
+// switch (true){
+//     case perc  <= 100 && perc  >=80 :
+//         document.write("your grade is A+")
+//         break
+//         case perc  <= 80 && perc  >=70 :
+//             document.write("your grade is A")
+//             break
+//             case perc  <= 70 && perc  >=60 :
+//                 document.write("your grade is B")
+//                 break
+//                 case perc  <= 60 && perc  >=50 :
+//                     document.write("your grade is C")
+//                     break
+//                     case perc  <= 50 && perc  >=0 :
+//                         document.write("your grade is fail")
+//                         break
+// default :
+// document.write("invalid percentage")                   
+// }
+
+// ---------------------while loop --------------------- to get value before and after increment
+
+// var i=0;
+// while(i<15){
+//     console.log(i)
+//     i++
+// // console.log(i) 
+// }
+
+// -------------------do while loop ------------------- do statement use in any condition 
+
+// var i=0;
+// do{
+//     console.log(i)
+// i++
+// }while(i<6)
+
+// --------------------------------javascript using html----------------------------------
+
+function submit() {
+    document.write("submited sucessfull")
+}
