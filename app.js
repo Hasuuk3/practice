@@ -428,6 +428,38 @@
 
 // --------------------------------javascript using html----------------------------------
 
-function submit() {
-    document.write("submited sucessfull")
-}
+// function submit() {
+//     document.write("submited sucessfull")
+// }
+
+// xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+// var tnum = 300;
+// var sub1 = +prompt("subject1 ","enter your obtain marks")
+// var sub2 = +prompt("subject2 ","enter your obtain marks")
+// var sub3 = +prompt("subject3 ","enter your obtain marks")
+//    var obnum = document.write( sub1+sub2+sub3)
+
+//   var perc = (obnum / tnum)*100;
+//    alert(perc)
+
+// var cities = ["Karachi", "Lahore","Islamabad","Quetta","Multan"];
+// var selected = cities.slice(1,4);
+// document.write(selected);
+ 
+// xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+// function findingLargestWord(inputString) {
+//     //Web Development
+//     var longestWord = "";
+//     var words = inputString.split(" ");
+//     console.log(words);
+//     for (i = 0; i < words.length; i++) {
+//       if (words[i].length > longestWord.length) {
+//         longestWord = words[i];
+//       }
+//     }
+//     return longestWord;
+//   }
+//   var longWord = findingLargestWord("HTML and Javascript");
+//   console.log(longWord);
