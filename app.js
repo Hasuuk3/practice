@@ -516,3 +516,67 @@
 //     myimg.className=""
 // }
 
+// xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx task xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+// function word(word){
+   
+//    console.log(word.length)
+    
+// }
+
+// word("words");
+
+ 
+// function setyear(){
+//     var  d=new Date();
+//     d.setFullYear(2000);
+//     console.log(d);
+
+// }
+// setyear();
+
+// function age(bday){
+// var currentdate=new Date()
+//  var currenttime=currentdate.getTime()
+//  var birthdate= new Date(bday) 
+//  var bdaytime= birthdate.getTime()
+//  var diff= (currenttime - bdaytime)
+//  var bdayyear= (diff /(1000*60*60*24*365))
+//  console.log(Math.floor(bdayyear))
+// }
+// age( "oct 17,2002");
+
+// //var arr=["zaid","haris",'haris','raza','abu bakar','umar','usman','ali','hassan','hussain','fatima']
+// function presence(name){
+//     var arr=["zaid", 'haris','raza','abu bakar','umar','usman','ali','hassan','hussain','fatima']
+//     var check = arr.indexOf(name)
+//     //console.log(check)
+//     if(check = -1 ){
+//         console.log("false")
+//     }
+// else{
+//     console.log("true")
+// }    
+// }
+// var check = prompt("enter your name")
+// presence(check);
+
+// function letter(){
+//     var word ="univercity".repeat(10)
+      
+//     console.log(word)
+// }
+// letter()
+
+
+
+
+//  var ary = ["a","b","c","d","e"]
+//  function reverse(){
+//  console.log(ary )
+//  ary.reverse()
+//   console.log(ary)
+//  }
+//  reverse()
+
+ //xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
