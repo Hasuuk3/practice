@@ -463,3 +463,56 @@
 //   }
 //   var longWord = findingLargestWord("HTML and Javascript");
 //   console.log(longWord);
+
+
+// xxxxxxxxxxxxxxxxxxxxxxxxxxxx  GET VALUES xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+// var myname = document.getElementById("name");
+// var setvalue =document.getElementById("set");
+//  function yourname(){
+//     // console.log( myname.value)
+//     setvalue.value=myname.value;
+//     myname.value="";
+
+// }
+
+// xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx form example for values xxxxxxxxxxxxxxxxxxxxxxx
+
+// var zipcode =document.getElementById("zip");
+
+// function fillcity(){
+//     var cityname;
+//     var city=document.getElementById("city");
+//     switch( zipcode.value){
+//         case "+92":
+//             cityname="pakistan";
+//             break;
+//             case "60608":
+//                 cityname ="chaina"
+//                 break;
+//                 default:
+//                     cityname = "invalid"
+//     }
+    
+// city.value=cityname;
+
+// }
+
+//xxxxxxxxxxxxxxxxxxxxxxxxx change img src & call classname in js xxxxxxxxxxxxxxxx
+
+// var myimg = document.getElementById("images");
+
+// function swapimg(){
+//     myimg.src=
+//     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXSPWJFXGxbXOawTRsrEaI4wQ3J8uCDjOKlQ&usqp=CAU" ;
+// myimg.className="bg"
+
+// }
+
+// function rtnimg(){
+//     myimg.src=
+//     " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw2PSFnNMdmvS7YooVl97ozPfoaKaulyuHg&usqp=CAU"
+//     myimg.className=""
+// }
+
